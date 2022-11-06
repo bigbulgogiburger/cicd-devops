@@ -4,7 +4,7 @@
 <body>
     <h2>It's working on Tomcat server(9.0.65)</h2>
     <hr>
-    <h2>It's on bigbulgogiburger223</h2>
+    <h2>It's on bigbulgogiburger2234</h2>
     <hr>
     <h1>${msg}</h1>
     <h1>Have a nice day.</h1>
