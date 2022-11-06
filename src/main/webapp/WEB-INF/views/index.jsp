@@ -6,6 +6,7 @@
     <hr>
     <h2>It's on bigbulgogiburger2234</h2>
     <hr>
+    <hr>
     <h1>${msg}</h1>
     <h1>Have a nice day.</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
